@@ -1,0 +1,6 @@
+id=lineageos_sgp511_buildprop
+name=LineageOS SGP511 build.prop fix
+version=v1
+versionCode=1
+author=lazyneighbour
+description=Resets some build.prop properties, so the device is correctly recognized and certified with Google Play Store.

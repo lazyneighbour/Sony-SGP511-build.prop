@@ -1,0 +1,15 @@
+# This file will be read by resetprop
+ro.build.type=user
+ro.build.tags=release-keys
+ro.build.flavor=castor_windy-user
+ro.product.board=MSM8974
+ro.build.product=SGP511
+ro.product.model=SGP511
+ro.product.device=SGP511
+ro.build.fingerprint=Sony/SGP511/SGP511:6.0.1/23.5.A.1.291/4107128625:user/release-keys
+ro.build.description=SGP511-user 6.0.1 23.5.A.1.291 4107128625 release-keys
+ro.semc.product.model=SGP511
+ro.semc.ms_type_id=TS-0020-BV
+ro.semc.version.fs=GLOBAL-WIFI16G
+ro.semc.product.name=Xperia Z2 Tablet
+ro.semc.product.device=SGP5
