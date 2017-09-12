@@ -4,4 +4,4 @@ version=v1.1
 versionCode=1
 author=lazyneighbour
 description=Resets some build.prop properties, so the device is correctly recognized and certified with Google Play Store.
-template=4
+template=1400
